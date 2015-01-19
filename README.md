@@ -13,5 +13,7 @@
   width="100" height="111" hspace="4" vspace="4" border="2"></p>
   <p><img src="images/figure.jpg" alt="Винни-Пух в гостях у Кролика" width="100%"></p>
    <p><a href="http://htmlbook.ru/html/body">Описание тега BODY</a></p>
+   <p><a href="images/xxx.jpg">Посмотрите на мою фотографию!</a></p>
+   <p><a href="tip.html">Как сделать такое же фото?</a></p>
  </body>
 </html>
