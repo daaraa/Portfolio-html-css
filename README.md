@@ -24,5 +24,19 @@
         <p><img src="images/robot.jpg" alt="Девочка и робот" width="300" height="388"></p>
          <p><a href="index.html"><img src="images/home.png" 
        alt="Вернуться на главную страницу" title="Главная страница"></a></p>
+       <ul type="disc">
+ <li>Первый пункт</li>
+ <li>Второй пункт</li>
+ <li>Третий пункт</li>
+</ul>
+<ul type="circle">
+ <li>Первый пункт</li>
+ <li>Второй пункт</li>
+ <li>Третий пункт</li>
+</ul><ul type="square">
+ <li>Первый пункт</li>
+ <li>Второй пункт</li>
+ <li>Третий пункт</li>
+</ul>
  </body>
 </html>
