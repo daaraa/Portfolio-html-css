@@ -4,8 +4,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <title>Пример веб-страницы</title>
  </head>
- <body>
- bgcolor="teal" text="#ffffff"
+ <body bgcolor="teal" text="#ffffff">
   <h1>Заголовок</h1>
   <!-- Комментарий -->
   <p>Первый абзац.</p>
