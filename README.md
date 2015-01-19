@@ -22,5 +22,7 @@
   <p><img src="images/home.png" 
         alt="Адрес размещения изображения относительно текущего HTML-документа"></p>
         <p><img src="images/robot.jpg" alt="Девочка и робот" width="300" height="388"></p>
+         <p><a href="index.html"><img src="images/home.png" 
+       alt="Вернуться на главную страницу" title="Главная страница"></a></p>
  </body>
 </html>
