@@ -11,5 +11,6 @@
   <p>Второй абзац.</p>
   <p><img src="images/figure.jpg" alt="Винни-Пух в гостях у Кролика"
   width="100" height="111" hspace="4" vspace="4" border="2"></p>
+  <p><img src="images/figure.jpg" alt="Винни-Пух в гостях у Кролика" width="100%"></p>
  </body>
 </html>
