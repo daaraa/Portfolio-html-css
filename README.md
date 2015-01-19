@@ -4,6 +4,10 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <title>Пример веб-страницы</title>
    <style> 
+   div { 
+    background: url(images/warning.png) no-repeat;
+    padding-left: 20px;
+    margin-left: 200px;}
    h1 { color: #a6780a; font-weight: normal; } 
    h2 { 
     color: olive; 
