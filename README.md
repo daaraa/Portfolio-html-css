@@ -3,6 +3,13 @@
  <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <title>Пример веб-страницы</title>
+   <style> 
+   h1 { color: #a6780a; font-weight: normal; } 
+   h2 { 
+    color: olive; 
+    border-bottom: 2px solid black; 
+   }
+  </style>
  </head>
  <body bgcolor="teal" text="#ffffff">
   <h1>Заголовок</h1>
